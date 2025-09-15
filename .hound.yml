@@ -1,0 +1,13 @@
+ruby:
+  config_file: .hound.ruby.yml
+
+haml:
+  config_file: .hound.haml.yml
+
+scss:
+  config_file: .hound.scss.yml
+
+jshint:
+  ignore_file: .jshint_ignore
+
+fail_on_violations: true
